@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RafeekAbadeer
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... we will see about that
 - 📫 My Email Address is: Rafeek.abadeer@gmail.com
 
 <!---
